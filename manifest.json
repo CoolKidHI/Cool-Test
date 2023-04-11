@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions",
+  "name": "Quick Play",
   "description": "Base Level Extension",
   "version": "1.0",
   "action": {
     "default_popup": "hello.html",
-    "default_icon": "gmKIT88Ha1z8VBMJFOOH.png"
+    "default_icon": "https://ug202.w3spaces.com/Favicons/android-chrome-512x512.png"
   }
 }
